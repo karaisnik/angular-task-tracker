@@ -1,3 +1,10 @@
+angular fontawsome is needed
+https://github.com/FortAwesome/angular-fontawesome
+
+for json server type: npm run server
+
+click on a task to toggle reminder
+
 # AngularTaskTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
